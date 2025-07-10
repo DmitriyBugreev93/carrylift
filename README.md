@@ -6,4 +6,4 @@ Gulp:
 - JavaScript
 - Swiper.js
 
-+ добавление php и посадка на WordPress
+добавление php и посадка на WordPress
